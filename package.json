@@ -1,0 +1,22 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "aqs",
+  "main": "index.js",
+  "scripts": {
+    "test": "aqs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "aqs"
+  },
+  "keywords": [
+    "aqs"
+  ],
+  "author": "aqs",
+  "license": "ISC",
+  "dependencies": {
+    "tsconfig": "^7.0.0",
+    "typescript": "^2.5.3"
+  }
+}

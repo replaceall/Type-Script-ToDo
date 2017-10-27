@@ -1,0 +1,45 @@
+
+#modify{
+    position: absolute;
+    left: 350px;
+}
+#delete
+{
+    margin-right: 10px;
+}
+#body{
+     margin-left: 400px;
+     width: 50%;
+     height: 50%;
+     position: relative;
+     border: 2px solid indianred;
+     padding-bottom: 20px;
+     padding-top: 20px;
+     border-radius: 20px;
+     text-align: center;
+}
+#added{
+    background-color: antiquewhite;
+}
+.input{
+    text-align: center;
+    padding-bottom: 10px}
+.mark{
+    margin-right: 10px;
+}
+.main{
+    padding-top: 15px;
+    border-bottom: 2px solid silver;
+}
+.thumbnails{
+    padding-bottom: 10px;
+}
+#inp{
+
+}
+#second{
+    background-color: silver;
+}
+
+
+
